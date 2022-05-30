@@ -1,4 +1,4 @@
-    Hi there 👋 ich bin Hayat Alkheder
+    Hi there 👋 I am Hayat Alkheder
 
 - 🔭 I’m currently student on DCI, WebDev
 - 🌱 I’m currently learning everything 
