@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a job as a web developer
 - 🌱 I’m currently learning HTML/CSS/JavaScript/MongoDB/React.js
 - 👯I’m looking to collaborate with other content creators
-- 📫 Goals 2022: Contribute more projects | completion project for DCI
+- 📫 Goals 2023: Contribute more projects and finding a job as a web developer
 - ⚡ Fun fact: I love to draw acrylic paintings
  - 📫 How to reach me: 
     - [GitHube](https://github.com/Hayat12345678?tab=repositories) 
